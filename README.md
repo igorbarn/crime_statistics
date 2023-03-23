@@ -1,5 +1,5 @@
 # Домашнее задание к теме <br>«Корреляция и корреляционный анализ»<br>
-[ссылка с title]([[http://example.com/](https://netology.ru/profile/program/stpyr-cp-4/schedule)](https://netology.ru/profile/program/stpyr-cp-4/schedule) "Привет!").
+Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 ### crime_statistics
 Домашнее задание к теме «Корреляция и корреляционный анализ»
-Здесь - [ссылка с title]([http://example.com/](https://netology.ru/profile/program/stpyr-cp-4/schedule) "Привет!").
+
