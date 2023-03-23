@@ -12,5 +12,4 @@
 | town | Город (Liverpool, York и т.д.) |
 | mortality | Смертность (целое число) |
 | hardness | Жестокость (целое число) |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
